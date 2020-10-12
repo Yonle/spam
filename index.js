@@ -9,6 +9,6 @@ console.log("YOU KNOW THE RULES, AND YOU GET YOU UP.....")
 
 setInterval(function() {
 cockroach()
-}, 10);
+}, 0);
 
 cockroach();
